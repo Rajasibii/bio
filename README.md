@@ -11,4 +11,8 @@ Hello, I'm Rajasibi, a Data Analyst with expertise in data analysis and reportin
 - Skilled in querying data using SQL.
 - Experienced in generating reports and performing ad-hoc data analysis using SQL.
 - Proficient in developing dashboards using **Power BI**.
-- Expertise in data analysis and reporting with **Excel**.
+- Expertise in data analysis and reporting with **Excel**
+  <image width = "900" alt="banner" src="https://github.com/user-attachments/assets/8e646722-217d-4c99-b1d6-a4dd559ce7a6
+">
+
+
