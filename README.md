@@ -12,7 +12,7 @@ Hello, I'm Rajasibi, a Data Analyst with expertise in data analysis and reportin
 - Experienced in generating reports and performing ad-hoc data analysis using SQL.
 - Proficient in developing dashboards using **Power BI**.
 - Expertise in data analysis and reporting with **Excel**
-  <image width = "900" alt="banner" src="https://github.com/user-attachments/assets/8e646722-217d-4c99-b1d6-a4dd559ce7a6
-">
+![Tosca Retro Data Analyst LinkedIn Banner (1) (1)](https://github.com/user-attachments/assets/2a96973f-2d78-4fa6-8250-43c9b2e2d5cb)
+
 
 
